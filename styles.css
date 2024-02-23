@@ -1,0 +1,21 @@
+body {
+    background: orangered;
+    text-align: center;
+}
+
+form {
+    border-block: 100px;
+    background: black;
+}
+
+h2 {
+    color: black;
+    font-weight: lighter;
+}
+
+button {
+    background: lime;
+    font-size: 1rem;
+    text-align: center;
+    width: 20%;
+}
